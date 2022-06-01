@@ -2,6 +2,10 @@
 ![IMG_3391](https://user-images.githubusercontent.com/24196838/171417210-64db91f8-7486-4499-9205-70de3b6a0f02.jpg)
 ![Build1](https://user-images.githubusercontent.com/24196838/171418753-07582746-63f3-4a73-a178-edb6984e3d5c.png)
 
+## Description
+
+A rectangle style controller built specifically for melee. Uses the layout of the htangl but rotated a little inward. Was my first project, and tbh wouldn't recommend building this too much. Def go for the budgetangl first 100%
+
 ## 6 Acrylic Lasercut Layers
 1 x bottom layer
 
