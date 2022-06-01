@@ -1,4 +1,6 @@
 # clickyclacky
+![IMG_3391](https://user-images.githubusercontent.com/24196838/171417210-64db91f8-7486-4499-9205-70de3b6a0f02.jpg)
+
 Rectangle controller designed for Melee
 
 1 x bottom layer
